@@ -1,6 +1,6 @@
 # Singapore Sustainability Report PDF Scraper
 
-A simple Python script for collecting publicly available sustainability, ESG, and integrated report PDF links for Singapore companies using [SerpAPI](https://serpapi.com/).
+A simple Python script for collecting publicly available sustainability, ESG, and integrated report PDF links for Singapore companies using [SerpAPI](https://serpapi.com/). Change the code to get PDF links for any topic/company you want.
 
 This project is designed for quick research workflows in Google Colab or Python environments where you want to gather report links automatically and save them to a text file.
 
