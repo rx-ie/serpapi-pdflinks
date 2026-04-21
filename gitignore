@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment files
+.env
+
+# Output files
+sustainability_pdfs.txt
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
